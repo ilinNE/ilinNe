@@ -12,7 +12,7 @@
 <img align="left" src="https://img.shields.io/badge/-REST Framework-blue?style=for-the-badge&logo=django&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 </br>
