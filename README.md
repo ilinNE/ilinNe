@@ -1,19 +1,19 @@
-### Привет! 👋
-<img src="https://codernet.ru/assets/components/phpthumbof/cache/how-to-become-a-computer-programmer.97fa7bced989170f4dfdb973693ac98d.jpg">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c?style=for-the-badge&logo=appveyor)
- 
-- <img align="left" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain-wordmark.svg" alt="HTML5" height="60" style="padding-right:10px"/>
+<img src="https://codernet.ru/assets/components/phpthumbof/cache/how-to-become-a-computer-programmer.97fa7bced989170f4dfdb973693ac98d.jpg"  style="width: 100%"/>
 
+## Python-разработчик
+---
 
-- 🔭 I
-- :book I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек:
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="">
+<img src="">
+<img src="">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilinNE)](https://git.io/streak-stats)
